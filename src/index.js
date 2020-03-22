@@ -1,3 +1,4 @@
+import './style/index.css';
 import App from './app.svelte';
 
 export default new App({
